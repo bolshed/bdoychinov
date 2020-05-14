@@ -1,0 +1,25 @@
+{
+  "name": "boyan-doychinov_s-portfolio",
+  "version": "0.1.0",
+  "description": "boyan-doychinov_s-portfolio",
+  "main": ".eleventy.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolshed/bdoychinov.git"
+  },
+  "author": "boyan_doychinov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bolshed/bdoychinov/issues"
+  },
+  "homepage": "https://github.com/bolshed/bdoychinov#readme"
+}
