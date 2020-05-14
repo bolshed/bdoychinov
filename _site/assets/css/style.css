@@ -179,6 +179,7 @@ textarea.form-control {
 	text-transform: uppercase;
 	letter-spacing: 1px;
 	font-size: 13px;
+	font-display: swap;
 	padding: 8px 26px;
 	border: 0;
 }
@@ -279,6 +280,7 @@ textarea.form-control {
 	font-family: Raleway, "Times New Roman", Times, sans-serif;
 	font-style: normal;
 	font-size: 18px;
+	font-display: swap;
 	color: rgb(61, 61, 61);
 }
 
@@ -327,6 +329,7 @@ textarea.form-control {
 	font-family: Raleway, "Times New Roman", Times, sans-serif;
 	font-size: 16px;
 	font-style: normal;
+	font-display: swap;
 	text-transform: none;
 	margin: 15px 0;
 }
@@ -341,19 +344,22 @@ textarea.form-control {
     margin: 50px 0;
     position: relative;
     text-align: center;
-    width: 140px;
+	width: 140px;
 }
+
 .chart canvas {
     left: 0;
     position: absolute;
-    top: 0;
+	top: 0;
+	
 }
 .percent {
     display: inline-block;
     font-size: 25px;
     font-weight: 500;
     line-height: 140px;
-    z-index: 2;
+	z-index: 2;
+	
 }
 .percent:after {
     content: "%";
@@ -438,6 +444,7 @@ textarea.form-control {
 	margin: 0;
 	text-transform: uppercase;
 	font-family: Raleway, sans-serif;
+	font-display: swap;
 }
 
 .navbar-custom,
@@ -468,6 +475,7 @@ textarea.form-control {
 	font-size: 22px;
 	text-transform: none;
 	font-family: 'Comfortaa', cursive;
+	font-display: swap;
 }
 
 .navbar-custom .dropdown-menu {
