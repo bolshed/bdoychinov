@@ -4,7 +4,6 @@
   "description": "boyan-doychinov_s-portfolio",
   "main": ".eleventy.js",
   "dependencies": {
-    "eleventy-plugin-seo": "^0.5.0",
     "gh-pages": "^2.2.0"
   },
   "devDependencies": {
